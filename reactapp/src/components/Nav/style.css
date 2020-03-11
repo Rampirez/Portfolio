@@ -1,0 +1,9 @@
+/* Modify the backgorund color */ 
+.navbar-custom { 
+    background-color: #B9C0DA; 
+}
+/* Modify brand and text color */ 
+.navbar-custom .navbar-brand, 
+.navbar-custom .navbar-text { 
+    color: rgb(21, 45, 129); 
+} 
